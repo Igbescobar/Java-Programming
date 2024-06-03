@@ -12,3 +12,4 @@ The course is divided into two individual parts:
     Java Programming II
 
 Certificates
+[alt text](https://github.com/Igbescobar/Java-Programming-I/blob/main/cerfiticates/certificate-java-programming-i.png "Certificate 1")
