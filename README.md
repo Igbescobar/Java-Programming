@@ -1,4 +1,4 @@
-# Java-Programming-I
+# Java-Programming
 
 This repository contains all my completed exercises from the University of Helsinki’s massive open online course (MOOC) on Object-Oriented Programming with Java.
 Course Overview
